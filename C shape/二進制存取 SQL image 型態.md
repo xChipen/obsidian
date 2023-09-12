@@ -1,5 +1,4 @@
-[[SQL]] 
-[[C shape]]
+[[SQL]]  [[CShape]]
 #byte #FileStream #buffer #image
 image => byte[]
 

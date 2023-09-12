@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b66d5cb607be41d6",
+        "id": "beb4dd4eac18c116",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9c423b66fc0e3d",
+            "id": "8c83bf8c6d5ceee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,12 +139,36 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fb9c423b66fc0e3d",
+  "active": "8158523c0a03fbec",
   "lastOpenFiles": [
+    "次項目/MVC 路由.md",
+    "次項目/MVC.md",
+    "SQL.md",
+    "次項目/Helpers.md",
+    "CShape.md",
+    "C shape/Base64UrlEncoding.cs.md",
+    "C shape/DBExtension.cs.md",
+    "C shape/HttpHelpers.cs.md",
+    "次項目/lambada.md",
+    "三商行.md",
+    "次項目",
+    "C shape/Log.cs.md",
+    "C shape/SQL.cs.md",
+    "C shape/SomeConvert.cs.md",
+    "C shape/PandaGoHelper.cs.md",
+    "Helper.md",
+    "C shape.md",
+    "C shape/二進制存取 SQL image 型態.md",
+    "SQL/SQL 分頁.md",
+    "2023-09-07.md",
+    "SQL/SQL 資料層應用程式.md",
+    "Notion/Notion 進度列.md",
+    "Notion/Notion 本週與下週 - 區間日期.md",
     "Git/Git obsidian.md",
+    "Git/Git.md",
     "Git.md",
-    "Vue.md",
-    "Markdown.md",
+    "C shape/過濾資料.md",
+    "料理",
     "Image/Git.png",
     "Image/Dog.jpg",
     "Image/Git_rebase2.png",
@@ -161,29 +176,12 @@
     "Image/Git_Cherry-pick.png",
     "Image",
     "新增資料夾",
-    "SQL.md",
-    "Git/Git.md",
-    "Obsidian.md",
     "Git",
     "obsidian",
-    "C shape/二進制存取 SQL image 型態.md",
-    "C.md",
     "C shape",
-    "C shape.md",
-    "三商行.md",
-    "SQL/SQL 資料層應用程式.md",
-    "資料收集/液體OK繃.md",
-    "醫療.md",
-    "Notion.md",
     "資料收集",
     "SQL",
-    "2023-09-07.md",
     "三商行",
-    "三商行/三商行 VPN.md",
-    "Notion/Notion 進度列.md",
-    "Notion/Notion 本週與下週 - 區間日期.md",
-    "未命名.canvas",
-    "2023-09-06.md",
-    "Notion"
+    "未命名.canvas"
   ]
 }
