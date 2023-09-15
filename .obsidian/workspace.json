@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a2ac27f374fee6",
+        "id": "9323956cf1caa2df",
         "type": "tabs",
         "children": [
           {
-            "id": "10fcc4aba1561fc2",
+            "id": "6aa8292c77630dca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#Notion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "be90573335724c59",
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,21 +139,24 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "10fcc4aba1561fc2",
+  "active": "6aa8292c77630dca",
   "lastOpenFiles": [
+    "次項目/Helpers.md",
+    "Notion/Notion 進度列.md",
+    "Notion/Notion 本週與下週 - 區間日期.md",
+    "Notion.md",
+    "CShape.md",
+    "SQL/SQL Transition.md",
+    "SQL.md",
+    "TransactionScope.md",
     "lambda.md",
     "LINQ.md",
-    "CShape.md",
     "C shape/Action, Func.md",
-    "TransactionScope.md",
-    "SQL/SQL Transition.md",
     "FOREIGN KEY.md",
-    "SQL.md",
     "缺貨通知-plus.md",
     "SQL/SQL 分頁.md",
     "次項目/MVC 路由.md",
     "次項目/MVC.md",
-    "次項目/Helpers.md",
     "C shape/Base64UrlEncoding.cs.md",
     "C shape/DBExtension.cs.md",
     "C shape/HttpHelpers.cs.md",
@@ -165,9 +168,6 @@
     "C shape/SomeConvert.cs.md",
     "C shape/PandaGoHelper.cs.md",
     "Helper.md",
-    "C shape.md",
-    "C shape/二進制存取 SQL image 型態.md",
-    "2023-09-07.md",
     "料理",
     "Image/Git.png",
     "Image/Dog.jpg",
