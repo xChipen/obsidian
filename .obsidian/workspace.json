@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "beb4dd4eac18c116",
+        "id": "a0a2ac27f374fee6",
         "type": "tabs",
         "children": [
           {
-            "id": "8c83bf8c6d5ceee7",
+            "id": "10fcc4aba1561fc2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,13 +139,21 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "8158523c0a03fbec",
+  "active": "10fcc4aba1561fc2",
   "lastOpenFiles": [
+    "lambda.md",
+    "LINQ.md",
+    "CShape.md",
+    "C shape/Action, Func.md",
+    "TransactionScope.md",
+    "SQL/SQL Transition.md",
+    "FOREIGN KEY.md",
+    "SQL.md",
+    "缺貨通知-plus.md",
+    "SQL/SQL 分頁.md",
     "次項目/MVC 路由.md",
     "次項目/MVC.md",
-    "SQL.md",
     "次項目/Helpers.md",
-    "CShape.md",
     "C shape/Base64UrlEncoding.cs.md",
     "C shape/DBExtension.cs.md",
     "C shape/HttpHelpers.cs.md",
@@ -159,15 +167,7 @@
     "Helper.md",
     "C shape.md",
     "C shape/二進制存取 SQL image 型態.md",
-    "SQL/SQL 分頁.md",
     "2023-09-07.md",
-    "SQL/SQL 資料層應用程式.md",
-    "Notion/Notion 進度列.md",
-    "Notion/Notion 本週與下週 - 區間日期.md",
-    "Git/Git obsidian.md",
-    "Git/Git.md",
-    "Git.md",
-    "C shape/過濾資料.md",
     "料理",
     "Image/Git.png",
     "Image/Dog.jpg",
