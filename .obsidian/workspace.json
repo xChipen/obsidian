@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9323956cf1caa2df",
+        "id": "1e442d758ffd213c",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa8292c77630dca",
+            "id": "b7d8cf0cd18375d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C shape/lambada.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Notion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C shape/lambada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C shape/lambada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C shape/lambada.md"
+              }
             }
           }
         ],
@@ -139,35 +147,36 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6aa8292c77630dca",
+  "active": "b7d8cf0cd18375d3",
   "lastOpenFiles": [
-    "次項目/Helpers.md",
-    "Notion/Notion 進度列.md",
-    "Notion/Notion 本週與下週 - 區間日期.md",
-    "Notion.md",
     "CShape.md",
-    "SQL/SQL Transition.md",
-    "SQL.md",
-    "TransactionScope.md",
-    "lambda.md",
-    "LINQ.md",
+    "C shape/lambada.md",
+    "C shape/lambada2.md",
+    "C shape/LINQ.md",
+    "C shape/Delegate.md",
+    "C shape/過濾資料.md",
+    "yield.md",
+    "C shape/Iterator Pattern.md",
+    "C shape/Pasted image 20230920091711.png",
     "C shape/Action, Func.md",
-    "FOREIGN KEY.md",
-    "缺貨通知-plus.md",
-    "SQL/SQL 分頁.md",
-    "次項目/MVC 路由.md",
-    "次項目/MVC.md",
-    "C shape/Base64UrlEncoding.cs.md",
-    "C shape/DBExtension.cs.md",
-    "C shape/HttpHelpers.cs.md",
-    "次項目/lambada.md",
+    "SQL.md",
+    "三商行/三商行 VPN.md",
     "三商行.md",
+    "料理.md",
+    "醫療.md",
+    "SQL/批次寫入資料庫.md",
+    "C shape/Transaction使用.md",
+    "C shape/型別轉換.md",
+    "Vue.md",
+    "SQL/TransactionScope.md",
+    "Obsidian.md",
+    "Notion.md",
+    "Markdown.md",
+    "SQL/FOREIGN KEY.md",
+    "SQL/缺貨通知-plus.md",
+    "C shape/物件方法與類別方法.md",
+    "次項目/Helpers.md",
     "次項目",
-    "C shape/Log.cs.md",
-    "C shape/SQL.cs.md",
-    "C shape/SomeConvert.cs.md",
-    "C shape/PandaGoHelper.cs.md",
-    "Helper.md",
     "料理",
     "Image/Git.png",
     "Image/Dog.jpg",

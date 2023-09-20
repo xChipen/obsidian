@@ -1,3 +1,5 @@
 {
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }

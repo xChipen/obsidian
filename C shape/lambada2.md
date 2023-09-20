@@ -1,4 +1,6 @@
-[[CShape]] [[LINQ]]
+[[CShape]] 
+[[LINQ]]
+[[lambada]]
 
 (parameters) => expression
 
